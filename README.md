@@ -12,20 +12,6 @@ This repository contains a curated collection of templates, study guides, and ti
 
 -----
 
-## GRE General Test
-
-Resources focused on the GRE Analytical Writing and Quantitative Reasoning sections.
-
-  * **`GRE/gre_analytical_writing_template.md`**
-
-      * A powerful and flexible template for the "Analyze an Issue" and "Analyze an Argument" essays. This structure synthesizes best practices from various sources with my own refinements, designed to help you build a strong, logical argument under time pressure.
-
-  * **`GRE/gre_quant_study_material.md`**
-
-      * A comprehensive guide for the Quantitative Reasoning section, covering essential formulas, concepts, and problem-solving strategies. This guide aims to be a one-stop resource for the majority of topics you will encounter.
-
------
-
 ## TOEFL iBT
 
 Templates and strategies designed specifically for the TOEFL iBT exam format.
@@ -41,6 +27,20 @@ Templates and strategies designed specifically for the TOEFL iBT exam format.
   * **`TOEFL/toefl_tips.md`**
 
       * A curated list of general and section-specific strategies, tips, and techniques. These are insights gained from personal experience and practice, designed to help optimize your test-taking approach.
+
+-----
+
+## GRE General Test
+
+Resources focused on the GRE Analytical Writing and Quantitative Reasoning sections.
+
+  * **`GRE/gre_analytical_writing_template.md`**
+
+      * A powerful and flexible template for the "Analyze an Issue" and "Analyze an Argument" essays. This structure synthesizes best practices from various sources with my own refinements, designed to help you build a strong, logical argument under time pressure.
+
+  * **`GRE/gre_quant_study_material.md`**
+
+      * A comprehensive guide for the Quantitative Reasoning section, covering essential formulas, concepts, and problem-solving strategies. This guide aims to be a one-stop resource for the majority of topics you will encounter.
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
