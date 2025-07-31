@@ -1,8 +1,8 @@
 # My TOEFL & GRE Prep Materials
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-    <img src="https://img.shields.io/github/license/AliKHaliliT/75000-Rice-Image-Dataset-for-Object-Detection-and-Object-Segmentation" alt="License">
-    <img src="https://img.shields.io/github/last-commit/AliKHaliliT/75000-Rice-Image-Dataset-for-Object-Detection-and-Object-Segmentation" alt="Last Commit">
-    <img src="https://img.shields.io/github/issues/AliKHaliliT/75000-Rice-Image-Dataset-for-Object-Detection-and-Object-Segmentation" alt="Open Issues">
+    <img src="https://img.shields.io/github/license/AliKHaliliT/My-TOEFL-GRE-Materials" alt="License">
+    <img src="https://img.shields.io/github/last-commit/AliKHaliliT/My-TOEFL-GRE-Materials" alt="Last Commit">
+    <img src="https://img.shields.io/github/issues/AliKHaliliT/My-TOEFL-GRE-Materials" alt="Open Issues">
 </div>
 <br/>
 
